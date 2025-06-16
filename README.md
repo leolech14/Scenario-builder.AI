@@ -1,4 +1,4 @@
-**URL**: [https://leolech14.github.io/make-builder-ai/mobile-ai-builder.html]
+**URL**: [https://leolech14.github.io/make-builder-ai/ai-builder-enhanced-ui.html
 
 # 🤖 AI Scenario Builder - Meta-Automation for Make.com
 
