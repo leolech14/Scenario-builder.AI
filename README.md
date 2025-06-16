@@ -1,3 +1,5 @@
+**URL**: [https://leolech14.github.io/make-builder-ai/FILE_NAME.html]
+
 # 🤖 AI Scenario Builder - Meta-Automation for Make.com
 
 A simple but powerful Make.com scenario that uses Claude AI to generate other Make.com scenarios based on natural language descriptions. This is "meta-automation" - AI that creates automations!
